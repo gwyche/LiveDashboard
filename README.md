@@ -14,7 +14,7 @@ This git repo hosts the Angular front-end for an inventory management system I w
 
 >If the user wants to delete the product, they simply press the red button on the right of the row and an indicator will appear confirming a deletion request was made. 
 
->At the bottom of the page are buttons to traverse the pages of the sorted table and a button to return to the first page in the table.
+>At the bottom of the page are buttons to traverse the pages of the sorted table and a button to return to the first page.
 
 >Above the table, an orange button summons the product creation page. Here, a new product can be created and will be automatically assigned a fresh ID. Product Availability is designated by entering either the word true or false. When the submit button is pressed, an indicator will alert the user that a new product creation request was made.
 
