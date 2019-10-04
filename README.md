@@ -12,7 +12,7 @@ This git repo hosts the Angular front-end for an inventory management system I w
 
 >Back on the Products page, the table can be sorted based upon the attribute of interest by clicking on the table header. The header will react by turning blue and the table will sort itself so that the column beneath the header is in ascending order. Additional clicks on the header will toggle the table between ascending and descending sorting.
 
->If the user wants to delete the product, they simply press the red button on the right of the row and an indicator will appear confirming a deletion request was made. 
+>If the user wants to delete the product, they simply press the red button on the right side of the row and an indicator will appear confirming a deletion request was made. 
 
 >At the bottom of the page are buttons to traverse the pages of the sorted table and a button to return to the first page.
 
