@@ -1,12 +1,12 @@
 # Inventory Management System
 
-This git repo hosts the Angular front end for an inventory management system I was assigned to make for class.
+This git repo hosts the Angular front-end for an inventory management system I was assigned to make for class. The Angular front-end application is hosted on Git Pages while the Java back-end and MySQL database to which the back-end directly communicates are hosted on Heroku. Please be aware there is a maximum query limit per hour.
 
 [Live Website](https://gwyche.github.io/LiveDashboard/)
 
-[Front End Code](https://github.com/gwyche/dashboard_front)
+[Front-End Code](https://github.com/gwyche/dashboard_front)
 
-[Back End Code](https://github.com/gwyche/dashboardback)
+[Back-End Code](https://github.com/gwyche/dashboardback)
 
 >Operating the app is a snap. When you first arrive on the site, you're presented with a table of Products. There are columns that display product attributes but not all of the attributes are presented here. More are visible if you click the grey button on the right of a row, which summons the product update window with additional attributes in input fields that can be adjusted.
 
