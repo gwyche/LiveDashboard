@@ -1,6 +1,6 @@
 # Inventory Management System
 
-This git repo hosts the live Angular front-end for an inventory management system I was assigned to make for class. The Angular front-end application is hosted on Git Pages while the Java back-end and ClearDB MySQL database to which the back-end directly communicates are hosted on Heroku. Please be aware that there is a maximum database query limit of 3600 per hour. In the event this limit is exceeded and no data appears in the app's displays, you can wait an hour and DB queries will be restored.
+This git repo hosts the live Angular front-end for an inventory management system I was assigned to make for class. The Angular front-end application is hosted on Git Pages while the Java back-end and ClearDB MySQL database to which the back-end directly communicates are hosted on Heroku. Please be aware that there is a maximum database query limit of 3600 per hour. In the event this limit is exceeded and no data appears in the app's displays, you can wait an hour and DB queries will be restored. There may be a 10 or so second delay before the data loads if the site has not been accessed in a long time and this is normal for the ClearDB account tier being used.
 
 [Live Website](https://gwyche.github.io/LiveDashboard/)
 
