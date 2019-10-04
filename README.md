@@ -18,6 +18,6 @@ This git repo hosts the Angular front-end for an inventory management system I w
 
 >Above the table, an orange button summons the product creation page. Here, a new product can be created and will be automatically assigned a fresh ID. Product Availability is designated by entering either the word true or false. Unlike the main table, the Supplier and Category are entered here as integers corresponding to their ID number in the database. When the submit button is pressed, an indicator will alert the user that a new product creation request was made. 
 
->At the top of the screen are buttons to navigate to the Suppliers and Categories pages. These support all of the same 4 CRUD functions as the Products page, along with pagination.
+>At the top of the main screen are buttons to navigate to the Suppliers and Categories pages. These support all of the same 4 CRUD functions as the Products page, along with pagination.
 
 >All pages are mobile friendly, though the site looks best on a laptop or desktop.
